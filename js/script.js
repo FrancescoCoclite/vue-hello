@@ -4,7 +4,9 @@
 var app = new Vue({
     el: '#app',
     data: {
-      message: 'ciao'
+      message: 'ciao',
+      img: 'https://www.donnamoderna.com/content/uploads/2020/07/Immagini-rilassanti-di-panorami-naturali-830x625.jpg"'
+    
     }
-  })
+});
 
